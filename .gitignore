@@ -32,6 +32,7 @@ Desktop.ini
 convert.py
 main.py
 .gitignore
+additional
 
 lectures/ofin2025_lecture02_ws.ipynb
 lectures/ofin2025_lecture03_ws.ipynb
@@ -44,6 +45,7 @@ lectures/ofin2025_lecture09_ws.ipynb
 lectures/ofin2025_lecture10_ws.ipynb
 lectures/ofin2025_lecture11_ws.ipynb
 lectures/ofin2025_lecture12_ws.ipynb
+lectures/ofin2025_lecture05_wopython.ipynb
 
 
 appendix/flowoffunds.ipynb
